@@ -1,7 +1,6 @@
 let primeiroNumero = 10;
 let segundoNumero = 5;
 
-
 let soma = primeiroNumero + segundoNumero;
 let subtracao = primeiroNumero - segundoNumero;
 let multiplicacao = primeiroNumero * segundoNumero;
