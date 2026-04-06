@@ -27,4 +27,3 @@ for (let i = 2 ; i < numero; i++) {
 }
 // se ninguém dividiu 'numero', ele é primo.
 return true;
-
